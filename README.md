@@ -16,10 +16,10 @@ STL per imprimir [aquí](https://github.com/maynej/Electronics-Stemfie).
 
 ## Suports 3D
   
-Descripció         | Imatge          | Arxiu         
+Descripció         | Imatge          | Arxius         
 ------------- | ------------- | ------------- 
 
-Patinet |![](Painet/Imatges/Patinet.jpg) | [Patinet](Patinet/STL/ArduinoNanoStemfie.stl)
+Patinet |![](Painet/Imatges/Patinet.jpg) | [Patinet](https://github.com/maynej/Models-Stemfie/Patinet/STL/)
 Trineu |![](Trineu/Imatges/Trineu.jpg) | [Trineu](Patinet/STL/ArduinoNanoStemfie.stl)
 Llama |![](Llama/Imatges/Llama.jpg) | [Llama](Patinet/STL/ArduinoNanoStemfie.stl)
 Helicòpter |![](Helicopter/Imatges/Helicopter.jpg) | [Helicopter](Patinet/STL/ArduinoNanoStemfie.stl)
