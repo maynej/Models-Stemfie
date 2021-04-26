@@ -19,7 +19,12 @@ STL per imprimir [aquí](https://github.com/maynej/Electronics-Stemfie).
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
 
-Suport Arduino Nano i tapa |![](Imatges/ArduinoNano.png) | [Arduino Nano](CPU/ArduinoNanoStemfie.stl), [Arduino Nano 2](CPU/ArduinoNano2Stemfie.stl), [Tapa Arduino Nano](CPU/TapaArduinoNanoStemfie.stl)
+Patinet |![](Painet/Imatges/Patinet.jpg) | [Patinet](Patinet/STL/ArduinoNanoStemfie.stl)
+Trineu |![](Trineu/Imatges/Trineu.jpg) | [Trineu](Patinet/STL/ArduinoNanoStemfie.stl)
+Llama |![](Llama/Imatges/Llama.jpg) | [Llama](Patinet/STL/ArduinoNanoStemfie.stl)
+Helicòpter |![](Helicopter/Imatges/Helicopter.jpg) | [Helicopter](Patinet/STL/ArduinoNanoStemfie.stl)
+Avió |![](Avio/Imatges/Avio2.jpg) | [Avio](Patinet/STL/ArduinoNanoStemfie.stl)
+
 
 ## Llicència
 
