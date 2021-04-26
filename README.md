@@ -1,13 +1,12 @@
 # Models-Stemfie
+
 Toys models with stemfie compability
 
-Suports electrónics amb compatibilitat STEMFIE. 
+Models de joguines fetes amb peces amb compatibilitat STEMFIE. 
 
-Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie.
+Realitzades per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
-Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
-
-STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
+STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Patinet/Imatges/LogoSTEMFIE.png" width="100" />
 
 Pretén facilitar l'automatització de les construccions amb targes de control Arduino, Microbit, ESP..., Sensors, Servos, motors...
 
