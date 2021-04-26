@@ -4,7 +4,7 @@ Toys models with STEMFIE compability
 
 Models de joguines fetes amb peces amb compatibilitat STEMFIE. 
 
-Realitzades per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Patinet/ImatgesImatges/Logo3senseFons.png" width="50" />
+Realitzades per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Patinet/Imatges/Logo3senseFons.png" width="50" />
 
 STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Patinet/Imatges/LogoSTEMFIE.png" width="100" />
 
@@ -23,4 +23,4 @@ Suport Arduino Nano i tapa |![](Imatges/ArduinoNano.png) | [Arduino Nano](CPU/Ar
 
 ## Llicència
 
-Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Patinet/Imatges/CC.png" width="100" />
