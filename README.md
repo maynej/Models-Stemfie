@@ -18,11 +18,11 @@ STL per imprimir [aquí](https://github.com/maynej/Electronics-Stemfie).
   
 Descripció         | Imatge          | Arxius         
 ------------- | ------------- | ------------- 
-Patinet |![](Painet/Imatges/Patinet.jpg) ![](Painet/Imatges/Patinet.jpg) | [Patinet](https://github.com/maynej/Models-Stemfie/Patinet/STL/)
-Trineu |![](Trineu/Imatges/Trineu.jpg) ![](Trineu/Imatges/Trineu.jpg) | [Trineu](https://github.com/maynej/Models-Stemfie/Trineu/STL/)
-Llama |![](Llama/Imatges/Llama.jpg) ![](Llama/Imatges/Llama.jpg) | [Llama](https://github.com/maynej/Models-Stemfie/Llama/STL/)
-Helicòpter |![](Helicopter/Imatges/Helicopter.jpg) ![](Helicopter/Imatges/Helicopter.jpg) | [Helicopter](https://github.com/maynej/Models-Stemfie/Helicopter/STL/)
-Avió |![](Avio/Imatges/Avio2.jpg) ![](Avio/Imatges/AvioAss.jpg) | [Avio](https://github.com/maynej/Models-Stemfie/Avio/STL/)
+Patinet |![](Painet/Imatges/Patinet.jpg) ![](Painet/Imatges/PatinetAss.jpg) | [Patinet](https://github.com/maynej/Models-Stemfie/Patinet/STL)
+Trineu |![](Trineu/Imatges/Trineu.jpg) ![](Trineu/Imatges/TrineuAss.jpg) | [Trineu](https://github.com/maynej/Models-Stemfie/Trineu/STL)
+Llama |![](Llama/Imatges/Llama.jpg) ![](Llama/Imatges/LlamaAss.jpg) | [Llama](https://github.com/maynej/Models-Stemfie/Llama/STL)
+Helicòpter |![](Helicopter/Imatges/Helicopter.jpg) ![](Helicopter/Imatges/HelicopterAss.jpg) | [Helicopter](https://github.com/maynej/Models-Stemfie/Helicopter/STL)
+Avió |![](Avio/Imatges/Avio2.jpg) ![](Avio/Imatges/AvioAss.jpg) | [Avio](https://github.com/maynej/Models-Stemfie/Avio/STL)
 
 
 ## Llicència
