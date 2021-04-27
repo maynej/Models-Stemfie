@@ -15,7 +15,7 @@ Descripció         | Imatges/Assamblatge          | Arxius     | Documentació
 Patinet |![](Patinet/Imatges/Patinet1.jpg) ![](Patinet/Imatges/PatinetAss.jpg) | [Patinet STL](https://github.com/maynej/Models-Stemfie/tree/main/Patinet/STL) | [Patinet DOC](https://github.com/maynej/Models-Stemfie/tree/main/Patinet/DOC) 
 Trineu |![](Trineu/Imatges/Trineu.jpg) ![](Trineu/Imatges/TrineuAss.jpg) | [Trineu STL](https://github.com/maynej/Models-Stemfie/tree/main/Trineu/STL) | [Trineu DOC](https://github.com/maynej/Models-Stemfie/tree/main/Trineu/DOC)
 Llama |![](Llama/Imatges/Llama.jpg) ![](Llama/Imatges/LlamaAss.jpg) | [Llama STL](https://github.com/maynej/Models-Stemfie/tree/main/Llama/STL) | [Llama DOC](https://github.com/maynej/Models-Stemfie/tree/main/Llama/DOC)
-Helicòpter |![](Helicopter/Imatges/Helicopter.jpg) ![](Helicopter/Imatges/HelicopterAss.jpg) | [Helicopter STL](https://github.com/maynej/Models-Stemfie/tree/main/Helicopter/STL) | [Helicopter DOC](https://github.com/maynej/Models-Stemfie/tree/main/Helicopter/DOC)
+Helicòpter |![](Helicopter/Imatges/Helicopter.jpg) ![](Helicopter/Imatges/HelicopterAss1.jpg) ![](Helicopter/Imatges/HelicopterAss2.jpg) | [Helicopter STL](https://github.com/maynej/Models-Stemfie/tree/main/Helicopter/STL) | [Helicopter DOC](https://github.com/maynej/Models-Stemfie/tree/main/Helicopter/DOC)
 Avió |![](Avio/Imatges/Avio2.jpg) ![](Avio/Imatges/AvioAss.jpg) | [Avio STL](https://github.com/maynej/Models-Stemfie/tree/main/Avio/STL) | [Avio DOC](https://github.com/maynej/Models-Stemfie/tree/main/Avio/DOC)
 
 
