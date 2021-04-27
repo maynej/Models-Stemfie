@@ -1,4 +1,4 @@
-# Models-Stemfie
+# Models-Stemfie  <img src="Imatges/UnderConstruction.png" width="50" />
 
 Toys models with STEMFIE compability
 
@@ -18,12 +18,11 @@ STL per imprimir [aquí](https://github.com/maynej/Electronics-Stemfie).
   
 Descripció         | Imatge          | Arxius         
 ------------- | ------------- | ------------- 
-
-Patinet |![](Painet/Imatges/Patinet.jpg) | [Patinet](https://github.com/maynej/Models-Stemfie/Patinet/STL/)
-Trineu |![](Trineu/Imatges/Trineu.jpg) | [Trineu](Patinet/STL/ArduinoNanoStemfie.stl)
-Llama |![](Llama/Imatges/Llama.jpg) | [Llama](Patinet/STL/ArduinoNanoStemfie.stl)
-Helicòpter |![](Helicopter/Imatges/Helicopter.jpg) | [Helicopter](Patinet/STL/ArduinoNanoStemfie.stl)
-Avió |![](Avio/Imatges/Avio2.jpg) | [Avio](Patinet/STL/ArduinoNanoStemfie.stl)
+Patinet |![](Painet/Imatges/Patinet.jpg) ![](Painet/Imatges/Patinet.jpg) | [Patinet](https://github.com/maynej/Models-Stemfie/Patinet/STL/)
+Trineu |![](Trineu/Imatges/Trineu.jpg) ![](Trineu/Imatges/Trineu.jpg) | [Trineu](https://github.com/maynej/Models-Stemfie/Trineu/STL/)
+Llama |![](Llama/Imatges/Llama.jpg) ![](Llama/Imatges/Llama.jpg) | [Llama](https://github.com/maynej/Models-Stemfie/Llama/STL/)
+Helicòpter |![](Helicopter/Imatges/Helicopter.jpg) ![](Helicopter/Imatges/Helicopter.jpg) | [Helicopter](https://github.com/maynej/Models-Stemfie/Helicopter/STL/)
+Avió |![](Avio/Imatges/Avio2.jpg) ![](Avio/Imatges/AvioAss.jpg) | [Avio](https://github.com/maynej/Models-Stemfie/Avio/STL/)
 
 
 ## Llicència
