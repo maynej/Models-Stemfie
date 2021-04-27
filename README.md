@@ -4,8 +4,7 @@ Toys models with STEMFIE compability
 
 Models de joguines fetes amb peces amb compatibilitat STEMFIE, realitzades per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study  <img src="Patinet/Imatges/Logo3senseFons.png" width="50" />
 
-<img src="Patinet/Imatges/Models.jpg" width="500" />
-
+<img src="Patinet/Imatges/Models.jpg" width="600" />
 
 STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org)  <img src="Patinet/Imatges/LogoSTEMFIE.png" width="100" />
 
