@@ -12,7 +12,7 @@ Pretén facilitar la construcció de nous models amb creativitat e imaginació.
 
 ## Models 3D
   
-Descripció         | Imatge          | Arxius     | Documentació    
+Descripció         | Imatges          | Arxius     | Documentació    
 ------------- | ------------- | ------------- | -------------
 Patinet |![](Patinet/Imatges/Patinet.jpg) ![](Patinet/Imatges/PatinetAss.jpg) | [Patinet STL](https://github.com/maynej/Models-Stemfie/Patinet/STL) | [Patinet DOC](https://github.com/maynej/Models-Stemfie/Patinet/DOC)
 Trineu |![](Trineu/Imatges/Trineu.jpg) ![](Trineu/Imatges/TrineuAss.jpg) | [Trineu STL](https://github.com/maynej/Models-Stemfie/Trineu/STL) | [Trineu DOC](https://github.com/maynej/Models-Stemfie/Trineu/DOC)
