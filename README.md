@@ -20,6 +20,10 @@ Llama |![](Llama/Imatges/Llama.jpg) ![](Llama/Imatges/LlamaAss.jpg) | [Llama STL
 Helicòpter |![](Helicopter/Imatges/Helicopter.jpg) ![](Helicopter/Imatges/HelicopterAss1.jpg) ![](Helicopter/Imatges/HelicopterAss2.jpg) | [Helicopter STL](https://github.com/maynej/Models-Stemfie/tree/main/Helicopter/STL) | [Helicopter DOC](https://github.com/maynej/Models-Stemfie/tree/main/Helicopter/DOC)
 Avió |![](Avio/Imatges/Avio2.jpg) ![](Avio/Imatges/AvioAss.jpg) | [Avio STL](https://github.com/maynej/Models-Stemfie/tree/main/Avio/STL) | [Avio DOC](https://github.com/maynej/Models-Stemfie/tree/main/Avio/DOC)
 
+## QR
+
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FModels-Stemfie&s=6&e=m"/>
+
 
 ## Llicència
 
